@@ -14,3 +14,6 @@ I'm currently working on adding more features to the game, such as a moves count
 
 # Screenshots
 
+![Alt text](https://user-images.githubusercontent.com/56621823/89696581-699ccb00-d8cd-11ea-9240-cba13b941a53.png)
+![Alt text](https://user-images.githubusercontent.com/56621823/89697182-db761400-d8cf-11ea-8c47-5c19b1167043.png)
+![Alt text](https://user-images.githubusercontent.com/56621823/89697199-fd6f9680-d8cf-11ea-88c8-bf4a223b52d2.png)
