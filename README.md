@@ -2,7 +2,7 @@
 
 A fun little Pokémon game where the user has to find the pairs of Pokémon. I built it following Tania Rascia's tutorial for building a memory game using plain JavaScript.
 
-Live demo is :star:  [here](https://catalinavictoria.github.io/MemoryGame/) :star:
+Live demo is :star: [here](https://catalinavictoria.github.io/MemoryGame/) :star:
 
 You can find the source and tutorial [here](https://www.taniarascia.com/how-to-create-a-memory-game-super-mario-with-plain-javascript/).
 
